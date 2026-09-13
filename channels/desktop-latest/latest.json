@@ -1,7 +1,6 @@
 {
-  "version": "0.7.0",
-  "url": "https://github.com/whoopwhoop5/live_cam-updates/releases/download/desktop-v0.7.0/LiveCam_0.7.0_x64-setup.exe",
-  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGxpdmVjYW0gcmVsZWFzZS1zaWduClJVUjJKaDNzZW5sN0IyeTl3czRtdFg4T1NOYTQvME45eWdiUnZjQ1IrRmIvZmJWSFkybHI3RHdFay9lUkxueWdFMzh4T2xXcnRyS2g0Uk1MUXZLVmpxaUJsRHRDUWl3NjVRRT0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc4ODc3Mjk1MQlmaWxlOkxpdmVDYW1fMC43LjBfeDY0LXNldHVwLmV4ZQpqWVZlNzh5M2RMTE5GRGk2ZHdjdWh2cEd1WmRzNnVZbjFXNERWbVJpWHRPN2RqcnovbU4rSk5tVzV1ZUdLSFFPdXI2SE1aSlpXazdvMlZPMHd1TUFBQT09Cg==",
-  "notes": "Nouvelle interface, plus claire et cohérente sur tous les écrans, et des dizaines de corrections issues de l'audit de septembre : la voix ne décroche plus après un silence, la caméra virtuelle diffuse à la bonne cadence, chaque arrêt est confirmé, et les réglages du micro comme de la licence disent toujours la vérité.",
-  "pub_date": "2026-09-07T09:22:52Z"
+  "version": "0.8.0",
+  "url": "https://github.com/whoopwhoop5/live_cam-updates/releases/download/desktop-v0.8.0/LiveCam_0.8.0_x64-setup.exe",
+  "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIGxpdmVjYW0gcmVsZWFzZS1zaWduClJVUjJKaDNzZW5sN0IvdFNaaGlmUktBWTA3akRNUGdaMmpONkFtbVFYZ2pmUk1ialptYWVGMWNGWGJNN2c0dWF5Yk1PWWxDSkk3a210RGFHeUx5SmFGT1VXSnJRLzlqRHJ3UT0KdHJ1c3RlZCBjb21tZW50OiB0aW1lc3RhbXA6MTc4OTM0MzY3NAlmaWxlOkxpdmVDYW1fMC44LjBfeDY0LXNldHVwLmV4ZQpPcGtkakg5bGNJWUZXbkxOcmlWRklMRmpvWGJLMmpCU1dvZWFRalUxWDZSQ21qbFpHcXloeDFrQVh4djAxaG5qMkk4V2QrZUppaG1OcjBmWWRPbUlEUT09Cg==",
+  "pub_date": "2026-09-13T23:55:08Z"
 }
